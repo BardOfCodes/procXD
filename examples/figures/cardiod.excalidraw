@@ -1,0 +1,4759 @@
+{
+    "type": "excalidraw",
+    "version": 1,
+    "source": "procXD",
+    "elements": [
+        {
+            "x": 400,
+            "y": 0,
+            "width": 99,
+            "height": 97,
+            "angle": 0,
+            "strokeColor": "#B3CE34",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    10,
+                    30
+                ],
+                [
+                    37,
+                    48
+                ],
+                [
+                    70,
+                    45
+                ],
+                [
+                    94,
+                    23
+                ],
+                [
+                    99,
+                    -8
+                ],
+                [
+                    83,
+                    -37
+                ],
+                [
+                    53,
+                    -49
+                ],
+                [
+                    22,
+                    -41
+                ],
+                [
+                    2,
+                    -15
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "b0bbd2ac-41b6-4cda-84fb-ffa273db513c",
+            "seed": 73152
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 99,
+            "height": 97,
+            "angle": 0,
+            "strokeColor": "#B3CE34",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -10,
+                    30
+                ],
+                [
+                    -37,
+                    48
+                ],
+                [
+                    -70,
+                    45
+                ],
+                [
+                    -94,
+                    23
+                ],
+                [
+                    -99,
+                    -8
+                ],
+                [
+                    -83,
+                    -37
+                ],
+                [
+                    -53,
+                    -49
+                ],
+                [
+                    -22,
+                    -41
+                ],
+                [
+                    -2,
+                    -15
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "206848d6-e05b-4169-991e-0218a76645f6",
+            "seed": 1826
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 97,
+            "height": 99,
+            "angle": 0,
+            "strokeColor": "#B3CE34",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    30,
+                    10
+                ],
+                [
+                    48,
+                    37
+                ],
+                [
+                    45,
+                    70
+                ],
+                [
+                    23,
+                    94
+                ],
+                [
+                    -8,
+                    99
+                ],
+                [
+                    -37,
+                    83
+                ],
+                [
+                    -49,
+                    53
+                ],
+                [
+                    -41,
+                    22
+                ],
+                [
+                    -15,
+                    2
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "5310bd9d-9b44-45ad-8664-8a6c15f0919d",
+            "seed": 20558
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 97,
+            "height": 99,
+            "angle": 0,
+            "strokeColor": "#B3CE34",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    30,
+                    -10
+                ],
+                [
+                    48,
+                    -37
+                ],
+                [
+                    45,
+                    -70
+                ],
+                [
+                    23,
+                    -94
+                ],
+                [
+                    -8,
+                    -99
+                ],
+                [
+                    -37,
+                    -83
+                ],
+                [
+                    -49,
+                    -53
+                ],
+                [
+                    -41,
+                    -22
+                ],
+                [
+                    -15,
+                    -2
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "380719e1-9e6d-422b-8f2b-d67a7a86934b",
+            "seed": 53933
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 121,
+            "height": 121,
+            "angle": 0,
+            "strokeColor": "#607328",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    8,
+                    31
+                ],
+                [
+                    32,
+                    54
+                ],
+                [
+                    64,
+                    61
+                ],
+                [
+                    95,
+                    50
+                ],
+                [
+                    116,
+                    25
+                ],
+                [
+                    121,
+                    -6
+                ],
+                [
+                    109,
+                    -37
+                ],
+                [
+                    83,
+                    -56
+                ],
+                [
+                    50,
+                    -60
+                ],
+                [
+                    21,
+                    -46
+                ],
+                [
+                    2,
+                    -18
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "fc4048d0-b09f-43f9-b2e4-49bb4ac0963f",
+            "seed": 13940
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 121,
+            "height": 121,
+            "angle": 0,
+            "strokeColor": "#607328",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -8,
+                    31
+                ],
+                [
+                    -32,
+                    54
+                ],
+                [
+                    -64,
+                    61
+                ],
+                [
+                    -95,
+                    50
+                ],
+                [
+                    -116,
+                    25
+                ],
+                [
+                    -121,
+                    -6
+                ],
+                [
+                    -109,
+                    -37
+                ],
+                [
+                    -83,
+                    -56
+                ],
+                [
+                    -50,
+                    -60
+                ],
+                [
+                    -21,
+                    -46
+                ],
+                [
+                    -2,
+                    -18
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "fb5e71be-6269-4b42-80c1-8ce726134a33",
+            "seed": 17796
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 121,
+            "height": 121,
+            "angle": 0,
+            "strokeColor": "#607328",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    8
+                ],
+                [
+                    54,
+                    32
+                ],
+                [
+                    61,
+                    64
+                ],
+                [
+                    50,
+                    95
+                ],
+                [
+                    25,
+                    116
+                ],
+                [
+                    -6,
+                    121
+                ],
+                [
+                    -37,
+                    109
+                ],
+                [
+                    -56,
+                    83
+                ],
+                [
+                    -60,
+                    50
+                ],
+                [
+                    -46,
+                    21
+                ],
+                [
+                    -18,
+                    2
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "74427c32-557c-4ad9-a175-0ec5462cb167",
+            "seed": 28606
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 121,
+            "height": 121,
+            "angle": 0,
+            "strokeColor": "#607328",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    -8
+                ],
+                [
+                    54,
+                    -32
+                ],
+                [
+                    61,
+                    -64
+                ],
+                [
+                    50,
+                    -95
+                ],
+                [
+                    25,
+                    -116
+                ],
+                [
+                    -6,
+                    -121
+                ],
+                [
+                    -37,
+                    -109
+                ],
+                [
+                    -56,
+                    -83
+                ],
+                [
+                    -60,
+                    -50
+                ],
+                [
+                    -46,
+                    -21
+                ],
+                [
+                    -18,
+                    -2
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "28e207bf-b64a-4a51-89e6-20db0623021c",
+            "seed": 93253
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 144,
+            "height": 141,
+            "angle": 0,
+            "strokeColor": "#553268",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    7,
+                    32
+                ],
+                [
+                    28,
+                    57
+                ],
+                [
+                    58,
+                    70
+                ],
+                [
+                    91,
+                    69
+                ],
+                [
+                    120,
+                    54
+                ],
+                [
+                    139,
+                    27
+                ],
+                [
+                    144,
+                    -5
+                ],
+                [
+                    134,
+                    -36
+                ],
+                [
+                    111,
+                    -60
+                ],
+                [
+                    80,
+                    -71
+                ],
+                [
+                    48,
+                    -68
+                ],
+                [
+                    20,
+                    -50
+                ],
+                [
+                    3,
+                    -22
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "4107ba16-9072-43af-8f3b-f54f440cbbc4",
+            "seed": 78222
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 144,
+            "height": 141,
+            "angle": 0,
+            "strokeColor": "#553268",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -7,
+                    32
+                ],
+                [
+                    -28,
+                    57
+                ],
+                [
+                    -58,
+                    70
+                ],
+                [
+                    -91,
+                    69
+                ],
+                [
+                    -120,
+                    54
+                ],
+                [
+                    -139,
+                    27
+                ],
+                [
+                    -144,
+                    -5
+                ],
+                [
+                    -134,
+                    -36
+                ],
+                [
+                    -111,
+                    -60
+                ],
+                [
+                    -80,
+                    -71
+                ],
+                [
+                    -48,
+                    -68
+                ],
+                [
+                    -20,
+                    -50
+                ],
+                [
+                    -3,
+                    -22
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "880dbbcb-ed27-44a6-81f7-ff3d0019f746",
+            "seed": 43112
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 141,
+            "height": 144,
+            "angle": 0,
+            "strokeColor": "#553268",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    32,
+                    7
+                ],
+                [
+                    57,
+                    28
+                ],
+                [
+                    70,
+                    58
+                ],
+                [
+                    69,
+                    91
+                ],
+                [
+                    54,
+                    120
+                ],
+                [
+                    27,
+                    139
+                ],
+                [
+                    -5,
+                    144
+                ],
+                [
+                    -36,
+                    134
+                ],
+                [
+                    -60,
+                    111
+                ],
+                [
+                    -71,
+                    80
+                ],
+                [
+                    -68,
+                    48
+                ],
+                [
+                    -50,
+                    20
+                ],
+                [
+                    -22,
+                    3
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "371242a7-89a2-42a6-a4ac-484504ac44a7",
+            "seed": 4635
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 141,
+            "height": 144,
+            "angle": 0,
+            "strokeColor": "#553268",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    32,
+                    -7
+                ],
+                [
+                    57,
+                    -28
+                ],
+                [
+                    70,
+                    -58
+                ],
+                [
+                    69,
+                    -91
+                ],
+                [
+                    54,
+                    -120
+                ],
+                [
+                    27,
+                    -139
+                ],
+                [
+                    -5,
+                    -144
+                ],
+                [
+                    -36,
+                    -134
+                ],
+                [
+                    -60,
+                    -111
+                ],
+                [
+                    -71,
+                    -80
+                ],
+                [
+                    -68,
+                    -48
+                ],
+                [
+                    -50,
+                    -20
+                ],
+                [
+                    -22,
+                    -3
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "1a393b91-6c2f-4e4c-8a1c-fb2cd6420de6",
+            "seed": 92889
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 166,
+            "height": 166,
+            "angle": 0,
+            "strokeColor": "#FA2BBB",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    6,
+                    32
+                ],
+                [
+                    25,
+                    59
+                ],
+                [
+                    52,
+                    77
+                ],
+                [
+                    85,
+                    83
+                ],
+                [
+                    117,
+                    76
+                ],
+                [
+                    144,
+                    57
+                ],
+                [
+                    161,
+                    29
+                ],
+                [
+                    166,
+                    -3
+                ],
+                [
+                    158,
+                    -35
+                ],
+                [
+                    139,
+                    -61
+                ],
+                [
+                    110,
+                    -78
+                ],
+                [
+                    78,
+                    -83
+                ],
+                [
+                    46,
+                    -74
+                ],
+                [
+                    20,
+                    -54
+                ],
+                [
+                    4,
+                    -25
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "8bb1bc4c-a6c9-4dcd-8d93-5989db6fb966",
+            "seed": 81601
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 166,
+            "height": 166,
+            "angle": 0,
+            "strokeColor": "#FA2BBB",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -6,
+                    32
+                ],
+                [
+                    -25,
+                    59
+                ],
+                [
+                    -52,
+                    77
+                ],
+                [
+                    -85,
+                    83
+                ],
+                [
+                    -117,
+                    76
+                ],
+                [
+                    -144,
+                    57
+                ],
+                [
+                    -161,
+                    29
+                ],
+                [
+                    -166,
+                    -3
+                ],
+                [
+                    -158,
+                    -35
+                ],
+                [
+                    -139,
+                    -61
+                ],
+                [
+                    -110,
+                    -78
+                ],
+                [
+                    -78,
+                    -83
+                ],
+                [
+                    -46,
+                    -74
+                ],
+                [
+                    -20,
+                    -54
+                ],
+                [
+                    -4,
+                    -25
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "6d4d2cdd-4b64-49d4-89c4-cc0879645da6",
+            "seed": 57267
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 166,
+            "height": 166,
+            "angle": 0,
+            "strokeColor": "#FA2BBB",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    32,
+                    6
+                ],
+                [
+                    59,
+                    25
+                ],
+                [
+                    77,
+                    52
+                ],
+                [
+                    83,
+                    85
+                ],
+                [
+                    76,
+                    117
+                ],
+                [
+                    57,
+                    144
+                ],
+                [
+                    29,
+                    161
+                ],
+                [
+                    -3,
+                    166
+                ],
+                [
+                    -35,
+                    158
+                ],
+                [
+                    -61,
+                    139
+                ],
+                [
+                    -78,
+                    110
+                ],
+                [
+                    -83,
+                    78
+                ],
+                [
+                    -74,
+                    46
+                ],
+                [
+                    -54,
+                    20
+                ],
+                [
+                    -25,
+                    4
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "4bbe228e-59f6-4220-b803-3d647ce8edf2",
+            "seed": 64125
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 166,
+            "height": 166,
+            "angle": 0,
+            "strokeColor": "#FA2BBB",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    32,
+                    -6
+                ],
+                [
+                    59,
+                    -25
+                ],
+                [
+                    77,
+                    -52
+                ],
+                [
+                    83,
+                    -85
+                ],
+                [
+                    76,
+                    -117
+                ],
+                [
+                    57,
+                    -144
+                ],
+                [
+                    29,
+                    -161
+                ],
+                [
+                    -3,
+                    -166
+                ],
+                [
+                    -35,
+                    -158
+                ],
+                [
+                    -61,
+                    -139
+                ],
+                [
+                    -78,
+                    -110
+                ],
+                [
+                    -83,
+                    -78
+                ],
+                [
+                    -74,
+                    -46
+                ],
+                [
+                    -54,
+                    -20
+                ],
+                [
+                    -25,
+                    -4
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "df35c24f-f5d2-4b94-b165-ad91d568331c",
+            "seed": 24033
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 188,
+            "height": 186,
+            "angle": 0,
+            "strokeColor": "#71F0C8",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    5,
+                    32
+                ],
+                [
+                    22,
+                    61
+                ],
+                [
+                    47,
+                    82
+                ],
+                [
+                    78,
+                    93
+                ],
+                [
+                    111,
+                    92
+                ],
+                [
+                    142,
+                    81
+                ],
+                [
+                    167,
+                    59
+                ],
+                [
+                    183,
+                    30
+                ],
+                [
+                    188,
+                    -1
+                ],
+                [
+                    182,
+                    -34
+                ],
+                [
+                    165,
+                    -62
+                ],
+                [
+                    139,
+                    -82
+                ],
+                [
+                    108,
+                    -93
+                ],
+                [
+                    75,
+                    -92
+                ],
+                [
+                    44,
+                    -80
+                ],
+                [
+                    20,
+                    -58
+                ],
+                [
+                    4,
+                    -29
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "f3fffc3f-e537-4c37-8986-0a38ece3c143",
+            "seed": 85987
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 188,
+            "height": 186,
+            "angle": 0,
+            "strokeColor": "#71F0C8",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -5,
+                    32
+                ],
+                [
+                    -22,
+                    61
+                ],
+                [
+                    -47,
+                    82
+                ],
+                [
+                    -78,
+                    93
+                ],
+                [
+                    -111,
+                    92
+                ],
+                [
+                    -142,
+                    81
+                ],
+                [
+                    -167,
+                    59
+                ],
+                [
+                    -183,
+                    30
+                ],
+                [
+                    -188,
+                    -1
+                ],
+                [
+                    -182,
+                    -34
+                ],
+                [
+                    -165,
+                    -62
+                ],
+                [
+                    -139,
+                    -82
+                ],
+                [
+                    -108,
+                    -93
+                ],
+                [
+                    -75,
+                    -92
+                ],
+                [
+                    -44,
+                    -80
+                ],
+                [
+                    -20,
+                    -58
+                ],
+                [
+                    -4,
+                    -29
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "677c5e5a-9995-4ebc-b723-41f6a4436d11",
+            "seed": 52269
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 186,
+            "height": 188,
+            "angle": 0,
+            "strokeColor": "#71F0C8",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    32,
+                    5
+                ],
+                [
+                    61,
+                    22
+                ],
+                [
+                    82,
+                    47
+                ],
+                [
+                    93,
+                    78
+                ],
+                [
+                    92,
+                    111
+                ],
+                [
+                    81,
+                    142
+                ],
+                [
+                    59,
+                    167
+                ],
+                [
+                    30,
+                    183
+                ],
+                [
+                    -1,
+                    188
+                ],
+                [
+                    -34,
+                    182
+                ],
+                [
+                    -62,
+                    165
+                ],
+                [
+                    -82,
+                    139
+                ],
+                [
+                    -93,
+                    108
+                ],
+                [
+                    -92,
+                    75
+                ],
+                [
+                    -80,
+                    44
+                ],
+                [
+                    -58,
+                    20
+                ],
+                [
+                    -29,
+                    4
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "a61ae4ce-8578-4b77-801b-7ba12c450935",
+            "seed": 97578
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 186,
+            "height": 188,
+            "angle": 0,
+            "strokeColor": "#71F0C8",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    32,
+                    -5
+                ],
+                [
+                    61,
+                    -22
+                ],
+                [
+                    82,
+                    -47
+                ],
+                [
+                    93,
+                    -78
+                ],
+                [
+                    92,
+                    -111
+                ],
+                [
+                    81,
+                    -142
+                ],
+                [
+                    59,
+                    -167
+                ],
+                [
+                    30,
+                    -183
+                ],
+                [
+                    -1,
+                    -188
+                ],
+                [
+                    -34,
+                    -182
+                ],
+                [
+                    -62,
+                    -165
+                ],
+                [
+                    -82,
+                    -139
+                ],
+                [
+                    -93,
+                    -108
+                ],
+                [
+                    -92,
+                    -75
+                ],
+                [
+                    -80,
+                    -44
+                ],
+                [
+                    -58,
+                    -20
+                ],
+                [
+                    -29,
+                    -4
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "05777e30-57bf-496a-9642-91156936614b",
+            "seed": 13158
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 210,
+            "height": 210,
+            "angle": 0,
+            "strokeColor": "#6A5C41",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    4,
+                    31
+                ],
+                [
+                    18,
+                    59
+                ],
+                [
+                    39,
+                    82
+                ],
+                [
+                    66,
+                    98
+                ],
+                [
+                    97,
+                    105
+                ],
+                [
+                    128,
+                    103
+                ],
+                [
+                    157,
+                    91
+                ],
+                [
+                    182,
+                    72
+                ],
+                [
+                    200,
+                    46
+                ],
+                [
+                    209,
+                    16
+                ],
+                [
+                    210,
+                    -14
+                ],
+                [
+                    201,
+                    -44
+                ],
+                [
+                    183,
+                    -71
+                ],
+                [
+                    159,
+                    -90
+                ],
+                [
+                    130,
+                    -102
+                ],
+                [
+                    98,
+                    -105
+                ],
+                [
+                    68,
+                    -98
+                ],
+                [
+                    40,
+                    -83
+                ],
+                [
+                    19,
+                    -60
+                ],
+                [
+                    5,
+                    -32
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "f106d2b4-7544-4ed2-98b5-6c6bd2576b4f",
+            "seed": 43990
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 210,
+            "height": 210,
+            "angle": 0,
+            "strokeColor": "#6A5C41",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -4,
+                    31
+                ],
+                [
+                    -18,
+                    59
+                ],
+                [
+                    -39,
+                    82
+                ],
+                [
+                    -66,
+                    98
+                ],
+                [
+                    -97,
+                    105
+                ],
+                [
+                    -128,
+                    103
+                ],
+                [
+                    -157,
+                    91
+                ],
+                [
+                    -182,
+                    72
+                ],
+                [
+                    -200,
+                    46
+                ],
+                [
+                    -209,
+                    16
+                ],
+                [
+                    -210,
+                    -14
+                ],
+                [
+                    -201,
+                    -44
+                ],
+                [
+                    -183,
+                    -71
+                ],
+                [
+                    -159,
+                    -90
+                ],
+                [
+                    -130,
+                    -102
+                ],
+                [
+                    -98,
+                    -105
+                ],
+                [
+                    -68,
+                    -98
+                ],
+                [
+                    -40,
+                    -83
+                ],
+                [
+                    -19,
+                    -60
+                ],
+                [
+                    -5,
+                    -32
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "2bd3d630-0ac0-41d3-968d-72f78f2c1cf1",
+            "seed": 82501
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 210,
+            "height": 210,
+            "angle": 0,
+            "strokeColor": "#6A5C41",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    4
+                ],
+                [
+                    59,
+                    18
+                ],
+                [
+                    82,
+                    39
+                ],
+                [
+                    98,
+                    66
+                ],
+                [
+                    105,
+                    97
+                ],
+                [
+                    103,
+                    128
+                ],
+                [
+                    91,
+                    157
+                ],
+                [
+                    72,
+                    182
+                ],
+                [
+                    46,
+                    200
+                ],
+                [
+                    16,
+                    209
+                ],
+                [
+                    -14,
+                    210
+                ],
+                [
+                    -44,
+                    201
+                ],
+                [
+                    -71,
+                    183
+                ],
+                [
+                    -90,
+                    159
+                ],
+                [
+                    -102,
+                    130
+                ],
+                [
+                    -105,
+                    98
+                ],
+                [
+                    -98,
+                    68
+                ],
+                [
+                    -83,
+                    40
+                ],
+                [
+                    -60,
+                    19
+                ],
+                [
+                    -32,
+                    5
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "e77333d9-f2bf-4f0a-b983-bac22dc3ae2f",
+            "seed": 30021
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 210,
+            "height": 210,
+            "angle": 0,
+            "strokeColor": "#6A5C41",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    -4
+                ],
+                [
+                    59,
+                    -18
+                ],
+                [
+                    82,
+                    -39
+                ],
+                [
+                    98,
+                    -66
+                ],
+                [
+                    105,
+                    -97
+                ],
+                [
+                    103,
+                    -128
+                ],
+                [
+                    91,
+                    -157
+                ],
+                [
+                    72,
+                    -182
+                ],
+                [
+                    46,
+                    -200
+                ],
+                [
+                    16,
+                    -209
+                ],
+                [
+                    -14,
+                    -210
+                ],
+                [
+                    -44,
+                    -201
+                ],
+                [
+                    -71,
+                    -183
+                ],
+                [
+                    -90,
+                    -159
+                ],
+                [
+                    -102,
+                    -130
+                ],
+                [
+                    -105,
+                    -98
+                ],
+                [
+                    -98,
+                    -68
+                ],
+                [
+                    -83,
+                    -40
+                ],
+                [
+                    -60,
+                    -19
+                ],
+                [
+                    -32,
+                    -5
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "4fc5d572-667f-4a8e-8d22-b7234ec911d2",
+            "seed": 13781
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 232,
+            "height": 232,
+            "angle": 0,
+            "strokeColor": "#F7AB9A",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    4,
+                    31
+                ],
+                [
+                    16,
+                    60
+                ],
+                [
+                    36,
+                    84
+                ],
+                [
+                    62,
+                    103
+                ],
+                [
+                    91,
+                    114
+                ],
+                [
+                    123,
+                    116
+                ],
+                [
+                    154,
+                    110
+                ],
+                [
+                    182,
+                    96
+                ],
+                [
+                    205,
+                    75
+                ],
+                [
+                    222,
+                    48
+                ],
+                [
+                    231,
+                    18
+                ],
+                [
+                    232,
+                    -13
+                ],
+                [
+                    224,
+                    -43
+                ],
+                [
+                    209,
+                    -71
+                ],
+                [
+                    186,
+                    -93
+                ],
+                [
+                    158,
+                    -108
+                ],
+                [
+                    128,
+                    -116
+                ],
+                [
+                    96,
+                    -114
+                ],
+                [
+                    66,
+                    -105
+                ],
+                [
+                    40,
+                    -88
+                ],
+                [
+                    19,
+                    -64
+                ],
+                [
+                    5,
+                    -36
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "dc042880-e3d2-4447-abd5-b9b7d43c8669",
+            "seed": 58809
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 232,
+            "height": 232,
+            "angle": 0,
+            "strokeColor": "#F7AB9A",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -4,
+                    31
+                ],
+                [
+                    -16,
+                    60
+                ],
+                [
+                    -36,
+                    84
+                ],
+                [
+                    -62,
+                    103
+                ],
+                [
+                    -91,
+                    114
+                ],
+                [
+                    -123,
+                    116
+                ],
+                [
+                    -154,
+                    110
+                ],
+                [
+                    -182,
+                    96
+                ],
+                [
+                    -205,
+                    75
+                ],
+                [
+                    -222,
+                    48
+                ],
+                [
+                    -231,
+                    18
+                ],
+                [
+                    -232,
+                    -13
+                ],
+                [
+                    -224,
+                    -43
+                ],
+                [
+                    -209,
+                    -71
+                ],
+                [
+                    -186,
+                    -93
+                ],
+                [
+                    -158,
+                    -108
+                ],
+                [
+                    -128,
+                    -116
+                ],
+                [
+                    -96,
+                    -114
+                ],
+                [
+                    -66,
+                    -105
+                ],
+                [
+                    -40,
+                    -88
+                ],
+                [
+                    -19,
+                    -64
+                ],
+                [
+                    -5,
+                    -36
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "3ffb1400-4501-42c8-9bad-0608b103d1f5",
+            "seed": 24035
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 232,
+            "height": 232,
+            "angle": 0,
+            "strokeColor": "#F7AB9A",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    4
+                ],
+                [
+                    60,
+                    16
+                ],
+                [
+                    84,
+                    36
+                ],
+                [
+                    103,
+                    62
+                ],
+                [
+                    114,
+                    91
+                ],
+                [
+                    116,
+                    123
+                ],
+                [
+                    110,
+                    154
+                ],
+                [
+                    96,
+                    182
+                ],
+                [
+                    75,
+                    205
+                ],
+                [
+                    48,
+                    222
+                ],
+                [
+                    18,
+                    231
+                ],
+                [
+                    -13,
+                    232
+                ],
+                [
+                    -43,
+                    224
+                ],
+                [
+                    -71,
+                    209
+                ],
+                [
+                    -93,
+                    186
+                ],
+                [
+                    -108,
+                    158
+                ],
+                [
+                    -116,
+                    128
+                ],
+                [
+                    -114,
+                    96
+                ],
+                [
+                    -105,
+                    66
+                ],
+                [
+                    -88,
+                    40
+                ],
+                [
+                    -64,
+                    19
+                ],
+                [
+                    -36,
+                    5
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "4dec8bf4-a79e-49c2-afda-41ef39047682",
+            "seed": 69271
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 232,
+            "height": 232,
+            "angle": 0,
+            "strokeColor": "#F7AB9A",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    -4
+                ],
+                [
+                    60,
+                    -16
+                ],
+                [
+                    84,
+                    -36
+                ],
+                [
+                    103,
+                    -62
+                ],
+                [
+                    114,
+                    -91
+                ],
+                [
+                    116,
+                    -123
+                ],
+                [
+                    110,
+                    -154
+                ],
+                [
+                    96,
+                    -182
+                ],
+                [
+                    75,
+                    -205
+                ],
+                [
+                    48,
+                    -222
+                ],
+                [
+                    18,
+                    -231
+                ],
+                [
+                    -13,
+                    -232
+                ],
+                [
+                    -43,
+                    -224
+                ],
+                [
+                    -71,
+                    -209
+                ],
+                [
+                    -93,
+                    -186
+                ],
+                [
+                    -108,
+                    -158
+                ],
+                [
+                    -116,
+                    -128
+                ],
+                [
+                    -114,
+                    -96
+                ],
+                [
+                    -105,
+                    -66
+                ],
+                [
+                    -88,
+                    -40
+                ],
+                [
+                    -64,
+                    -19
+                ],
+                [
+                    -36,
+                    -5
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "23f4f7f1-7c20-445e-abad-46d406740777",
+            "seed": 54915
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 255,
+            "height": 254,
+            "angle": 0,
+            "strokeColor": "#907690",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    3,
+                    31
+                ],
+                [
+                    15,
+                    60
+                ],
+                [
+                    33,
+                    86
+                ],
+                [
+                    58,
+                    107
+                ],
+                [
+                    86,
+                    120
+                ],
+                [
+                    117,
+                    127
+                ],
+                [
+                    149,
+                    125
+                ],
+                [
+                    179,
+                    116
+                ],
+                [
+                    206,
+                    100
+                ],
+                [
+                    229,
+                    77
+                ],
+                [
+                    245,
+                    50
+                ],
+                [
+                    253,
+                    19
+                ],
+                [
+                    255,
+                    -11
+                ],
+                [
+                    248,
+                    -42
+                ],
+                [
+                    234,
+                    -70
+                ],
+                [
+                    213,
+                    -94
+                ],
+                [
+                    187,
+                    -113
+                ],
+                [
+                    157,
+                    -124
+                ],
+                [
+                    126,
+                    -127
+                ],
+                [
+                    94,
+                    -123
+                ],
+                [
+                    65,
+                    -111
+                ],
+                [
+                    39,
+                    -92
+                ],
+                [
+                    19,
+                    -68
+                ],
+                [
+                    6,
+                    -39
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "45a2b7b5-e216-4289-9ad9-400986e1ac49",
+            "seed": 32930
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 255,
+            "height": 254,
+            "angle": 0,
+            "strokeColor": "#907690",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -3,
+                    31
+                ],
+                [
+                    -15,
+                    60
+                ],
+                [
+                    -33,
+                    86
+                ],
+                [
+                    -58,
+                    107
+                ],
+                [
+                    -86,
+                    120
+                ],
+                [
+                    -117,
+                    127
+                ],
+                [
+                    -149,
+                    125
+                ],
+                [
+                    -179,
+                    116
+                ],
+                [
+                    -206,
+                    100
+                ],
+                [
+                    -229,
+                    77
+                ],
+                [
+                    -245,
+                    50
+                ],
+                [
+                    -253,
+                    19
+                ],
+                [
+                    -255,
+                    -11
+                ],
+                [
+                    -248,
+                    -42
+                ],
+                [
+                    -234,
+                    -70
+                ],
+                [
+                    -213,
+                    -94
+                ],
+                [
+                    -187,
+                    -113
+                ],
+                [
+                    -157,
+                    -124
+                ],
+                [
+                    -126,
+                    -127
+                ],
+                [
+                    -94,
+                    -123
+                ],
+                [
+                    -65,
+                    -111
+                ],
+                [
+                    -39,
+                    -92
+                ],
+                [
+                    -19,
+                    -68
+                ],
+                [
+                    -6,
+                    -39
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "b090128b-6aec-4029-8641-7ce5785a9536",
+            "seed": 5582
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 254,
+            "height": 255,
+            "angle": 0,
+            "strokeColor": "#907690",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    3
+                ],
+                [
+                    60,
+                    15
+                ],
+                [
+                    86,
+                    33
+                ],
+                [
+                    107,
+                    58
+                ],
+                [
+                    120,
+                    86
+                ],
+                [
+                    127,
+                    117
+                ],
+                [
+                    125,
+                    149
+                ],
+                [
+                    116,
+                    179
+                ],
+                [
+                    100,
+                    206
+                ],
+                [
+                    77,
+                    229
+                ],
+                [
+                    50,
+                    245
+                ],
+                [
+                    19,
+                    253
+                ],
+                [
+                    -11,
+                    255
+                ],
+                [
+                    -42,
+                    248
+                ],
+                [
+                    -70,
+                    234
+                ],
+                [
+                    -94,
+                    213
+                ],
+                [
+                    -113,
+                    187
+                ],
+                [
+                    -124,
+                    157
+                ],
+                [
+                    -127,
+                    126
+                ],
+                [
+                    -123,
+                    94
+                ],
+                [
+                    -111,
+                    65
+                ],
+                [
+                    -92,
+                    39
+                ],
+                [
+                    -68,
+                    19
+                ],
+                [
+                    -39,
+                    6
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "5f3f1aff-0b4a-4aa9-b819-d85b99c88e9d",
+            "seed": 10181
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 254,
+            "height": 255,
+            "angle": 0,
+            "strokeColor": "#907690",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    -3
+                ],
+                [
+                    60,
+                    -15
+                ],
+                [
+                    86,
+                    -33
+                ],
+                [
+                    107,
+                    -58
+                ],
+                [
+                    120,
+                    -86
+                ],
+                [
+                    127,
+                    -117
+                ],
+                [
+                    125,
+                    -149
+                ],
+                [
+                    116,
+                    -179
+                ],
+                [
+                    100,
+                    -206
+                ],
+                [
+                    77,
+                    -229
+                ],
+                [
+                    50,
+                    -245
+                ],
+                [
+                    19,
+                    -253
+                ],
+                [
+                    -11,
+                    -255
+                ],
+                [
+                    -42,
+                    -248
+                ],
+                [
+                    -70,
+                    -234
+                ],
+                [
+                    -94,
+                    -213
+                ],
+                [
+                    -113,
+                    -187
+                ],
+                [
+                    -124,
+                    -157
+                ],
+                [
+                    -127,
+                    -126
+                ],
+                [
+                    -123,
+                    -94
+                ],
+                [
+                    -111,
+                    -65
+                ],
+                [
+                    -92,
+                    -39
+                ],
+                [
+                    -68,
+                    -19
+                ],
+                [
+                    -39,
+                    -6
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "afeca6d6-bd03-4ae8-b4c1-75c57381a35e",
+            "seed": 72453
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 277,
+            "height": 276,
+            "angle": 0,
+            "strokeColor": "#E69937",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    3,
+                    31
+                ],
+                [
+                    14,
+                    61
+                ],
+                [
+                    31,
+                    88
+                ],
+                [
+                    54,
+                    110
+                ],
+                [
+                    81,
+                    126
+                ],
+                [
+                    112,
+                    136
+                ],
+                [
+                    143,
+                    138
+                ],
+                [
+                    175,
+                    134
+                ],
+                [
+                    204,
+                    122
+                ],
+                [
+                    230,
+                    103
+                ],
+                [
+                    252,
+                    80
+                ],
+                [
+                    267,
+                    52
+                ],
+                [
+                    276,
+                    21
+                ],
+                [
+                    277,
+                    -10
+                ],
+                [
+                    271,
+                    -41
+                ],
+                [
+                    258,
+                    -70
+                ],
+                [
+                    239,
+                    -95
+                ],
+                [
+                    215,
+                    -116
+                ],
+                [
+                    186,
+                    -130
+                ],
+                [
+                    155,
+                    -137
+                ],
+                [
+                    123,
+                    -138
+                ],
+                [
+                    92,
+                    -131
+                ],
+                [
+                    64,
+                    -117
+                ],
+                [
+                    39,
+                    -97
+                ],
+                [
+                    20,
+                    -71
+                ],
+                [
+                    6,
+                    -42
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "8e5fb3c2-969a-422a-a060-0c119d932d5d",
+            "seed": 54231
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 277,
+            "height": 276,
+            "angle": 0,
+            "strokeColor": "#E69937",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -3,
+                    31
+                ],
+                [
+                    -14,
+                    61
+                ],
+                [
+                    -31,
+                    88
+                ],
+                [
+                    -54,
+                    110
+                ],
+                [
+                    -81,
+                    126
+                ],
+                [
+                    -112,
+                    136
+                ],
+                [
+                    -143,
+                    138
+                ],
+                [
+                    -175,
+                    134
+                ],
+                [
+                    -204,
+                    122
+                ],
+                [
+                    -230,
+                    103
+                ],
+                [
+                    -252,
+                    80
+                ],
+                [
+                    -267,
+                    52
+                ],
+                [
+                    -276,
+                    21
+                ],
+                [
+                    -277,
+                    -10
+                ],
+                [
+                    -271,
+                    -41
+                ],
+                [
+                    -258,
+                    -70
+                ],
+                [
+                    -239,
+                    -95
+                ],
+                [
+                    -215,
+                    -116
+                ],
+                [
+                    -186,
+                    -130
+                ],
+                [
+                    -155,
+                    -137
+                ],
+                [
+                    -123,
+                    -138
+                ],
+                [
+                    -92,
+                    -131
+                ],
+                [
+                    -64,
+                    -117
+                ],
+                [
+                    -39,
+                    -97
+                ],
+                [
+                    -20,
+                    -71
+                ],
+                [
+                    -6,
+                    -42
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "0ea5ffd8-780c-4117-9468-6ed3ddcc4a84",
+            "seed": 67357
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 276,
+            "height": 277,
+            "angle": 0,
+            "strokeColor": "#E69937",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    3
+                ],
+                [
+                    61,
+                    14
+                ],
+                [
+                    88,
+                    31
+                ],
+                [
+                    110,
+                    54
+                ],
+                [
+                    126,
+                    81
+                ],
+                [
+                    136,
+                    112
+                ],
+                [
+                    138,
+                    143
+                ],
+                [
+                    134,
+                    175
+                ],
+                [
+                    122,
+                    204
+                ],
+                [
+                    103,
+                    230
+                ],
+                [
+                    80,
+                    252
+                ],
+                [
+                    52,
+                    267
+                ],
+                [
+                    21,
+                    276
+                ],
+                [
+                    -10,
+                    277
+                ],
+                [
+                    -41,
+                    271
+                ],
+                [
+                    -70,
+                    258
+                ],
+                [
+                    -95,
+                    239
+                ],
+                [
+                    -116,
+                    215
+                ],
+                [
+                    -130,
+                    186
+                ],
+                [
+                    -137,
+                    155
+                ],
+                [
+                    -138,
+                    123
+                ],
+                [
+                    -131,
+                    92
+                ],
+                [
+                    -117,
+                    64
+                ],
+                [
+                    -97,
+                    39
+                ],
+                [
+                    -71,
+                    20
+                ],
+                [
+                    -42,
+                    6
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "891f2ff0-61ba-42bc-aa37-67911cf16d9f",
+            "seed": 17233
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 276,
+            "height": 277,
+            "angle": 0,
+            "strokeColor": "#E69937",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    31,
+                    -3
+                ],
+                [
+                    61,
+                    -14
+                ],
+                [
+                    88,
+                    -31
+                ],
+                [
+                    110,
+                    -54
+                ],
+                [
+                    126,
+                    -81
+                ],
+                [
+                    136,
+                    -112
+                ],
+                [
+                    138,
+                    -143
+                ],
+                [
+                    134,
+                    -175
+                ],
+                [
+                    122,
+                    -204
+                ],
+                [
+                    103,
+                    -230
+                ],
+                [
+                    80,
+                    -252
+                ],
+                [
+                    52,
+                    -267
+                ],
+                [
+                    21,
+                    -276
+                ],
+                [
+                    -10,
+                    -277
+                ],
+                [
+                    -41,
+                    -271
+                ],
+                [
+                    -70,
+                    -258
+                ],
+                [
+                    -95,
+                    -239
+                ],
+                [
+                    -116,
+                    -215
+                ],
+                [
+                    -130,
+                    -186
+                ],
+                [
+                    -137,
+                    -155
+                ],
+                [
+                    -138,
+                    -123
+                ],
+                [
+                    -131,
+                    -92
+                ],
+                [
+                    -117,
+                    -64
+                ],
+                [
+                    -97,
+                    -39
+                ],
+                [
+                    -71,
+                    -20
+                ],
+                [
+                    -42,
+                    -6
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "c1799c20-b49d-4d45-90ec-80be5be14bf7",
+            "seed": 57252
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 299,
+            "height": 298,
+            "angle": 0,
+            "strokeColor": "#BAC447",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    3,
+                    30
+                ],
+                [
+                    12,
+                    60
+                ],
+                [
+                    27,
+                    86
+                ],
+                [
+                    48,
+                    110
+                ],
+                [
+                    72,
+                    128
+                ],
+                [
+                    100,
+                    141
+                ],
+                [
+                    130,
+                    148
+                ],
+                [
+                    161,
+                    149
+                ],
+                [
+                    191,
+                    144
+                ],
+                [
+                    220,
+                    132
+                ],
+                [
+                    245,
+                    115
+                ],
+                [
+                    267,
+                    93
+                ],
+                [
+                    284,
+                    67
+                ],
+                [
+                    294,
+                    38
+                ],
+                [
+                    299,
+                    8
+                ],
+                [
+                    298,
+                    -22
+                ],
+                [
+                    290,
+                    -52
+                ],
+                [
+                    276,
+                    -80
+                ],
+                [
+                    257,
+                    -104
+                ],
+                [
+                    234,
+                    -124
+                ],
+                [
+                    207,
+                    -138
+                ],
+                [
+                    177,
+                    -147
+                ],
+                [
+                    146,
+                    -149
+                ],
+                [
+                    116,
+                    -146
+                ],
+                [
+                    87,
+                    -136
+                ],
+                [
+                    60,
+                    -120
+                ],
+                [
+                    37,
+                    -99
+                ],
+                [
+                    19,
+                    -74
+                ],
+                [
+                    7,
+                    -46
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "095218d7-adb3-4928-9656-629da1c954c0",
+            "seed": 84500
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 299,
+            "height": 298,
+            "angle": 0,
+            "strokeColor": "#BAC447",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -3,
+                    30
+                ],
+                [
+                    -12,
+                    60
+                ],
+                [
+                    -27,
+                    86
+                ],
+                [
+                    -48,
+                    110
+                ],
+                [
+                    -72,
+                    128
+                ],
+                [
+                    -100,
+                    141
+                ],
+                [
+                    -130,
+                    148
+                ],
+                [
+                    -161,
+                    149
+                ],
+                [
+                    -191,
+                    144
+                ],
+                [
+                    -220,
+                    132
+                ],
+                [
+                    -245,
+                    115
+                ],
+                [
+                    -267,
+                    93
+                ],
+                [
+                    -284,
+                    67
+                ],
+                [
+                    -294,
+                    38
+                ],
+                [
+                    -299,
+                    8
+                ],
+                [
+                    -298,
+                    -22
+                ],
+                [
+                    -290,
+                    -52
+                ],
+                [
+                    -276,
+                    -80
+                ],
+                [
+                    -257,
+                    -104
+                ],
+                [
+                    -234,
+                    -124
+                ],
+                [
+                    -207,
+                    -138
+                ],
+                [
+                    -177,
+                    -147
+                ],
+                [
+                    -146,
+                    -149
+                ],
+                [
+                    -116,
+                    -146
+                ],
+                [
+                    -87,
+                    -136
+                ],
+                [
+                    -60,
+                    -120
+                ],
+                [
+                    -37,
+                    -99
+                ],
+                [
+                    -19,
+                    -74
+                ],
+                [
+                    -7,
+                    -46
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "17c27974-e79a-4251-8e7a-f339cbbc523c",
+            "seed": 42710
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 298,
+            "height": 299,
+            "angle": 0,
+            "strokeColor": "#BAC447",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    30,
+                    3
+                ],
+                [
+                    60,
+                    12
+                ],
+                [
+                    86,
+                    27
+                ],
+                [
+                    110,
+                    48
+                ],
+                [
+                    128,
+                    72
+                ],
+                [
+                    141,
+                    100
+                ],
+                [
+                    148,
+                    130
+                ],
+                [
+                    149,
+                    161
+                ],
+                [
+                    144,
+                    191
+                ],
+                [
+                    132,
+                    220
+                ],
+                [
+                    115,
+                    245
+                ],
+                [
+                    93,
+                    267
+                ],
+                [
+                    67,
+                    284
+                ],
+                [
+                    38,
+                    294
+                ],
+                [
+                    8,
+                    299
+                ],
+                [
+                    -22,
+                    298
+                ],
+                [
+                    -52,
+                    290
+                ],
+                [
+                    -80,
+                    276
+                ],
+                [
+                    -104,
+                    257
+                ],
+                [
+                    -124,
+                    234
+                ],
+                [
+                    -138,
+                    207
+                ],
+                [
+                    -147,
+                    177
+                ],
+                [
+                    -149,
+                    146
+                ],
+                [
+                    -146,
+                    116
+                ],
+                [
+                    -136,
+                    87
+                ],
+                [
+                    -120,
+                    60
+                ],
+                [
+                    -99,
+                    37
+                ],
+                [
+                    -74,
+                    19
+                ],
+                [
+                    -46,
+                    7
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "91da4147-008b-4d8f-8196-19b81ae2cd79",
+            "seed": 6218
+        },
+        {
+            "x": 400,
+            "y": 0,
+            "width": 298,
+            "height": 299,
+            "angle": 0,
+            "strokeColor": "#BAC447",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    30,
+                    -3
+                ],
+                [
+                    60,
+                    -12
+                ],
+                [
+                    86,
+                    -27
+                ],
+                [
+                    110,
+                    -48
+                ],
+                [
+                    128,
+                    -72
+                ],
+                [
+                    141,
+                    -100
+                ],
+                [
+                    148,
+                    -130
+                ],
+                [
+                    149,
+                    -161
+                ],
+                [
+                    144,
+                    -191
+                ],
+                [
+                    132,
+                    -220
+                ],
+                [
+                    115,
+                    -245
+                ],
+                [
+                    93,
+                    -267
+                ],
+                [
+                    67,
+                    -284
+                ],
+                [
+                    38,
+                    -294
+                ],
+                [
+                    8,
+                    -299
+                ],
+                [
+                    -22,
+                    -298
+                ],
+                [
+                    -52,
+                    -290
+                ],
+                [
+                    -80,
+                    -276
+                ],
+                [
+                    -104,
+                    -257
+                ],
+                [
+                    -124,
+                    -234
+                ],
+                [
+                    -138,
+                    -207
+                ],
+                [
+                    -147,
+                    -177
+                ],
+                [
+                    -149,
+                    -146
+                ],
+                [
+                    -146,
+                    -116
+                ],
+                [
+                    -136,
+                    -87
+                ],
+                [
+                    -120,
+                    -60
+                ],
+                [
+                    -99,
+                    -37
+                ],
+                [
+                    -74,
+                    -19
+                ],
+                [
+                    -46,
+                    -7
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "946d1599-fad3-476d-9e32-a7f7b0c4ac55",
+            "seed": 697
+        },
+        {
+            "x": 360,
+            "y": 0,
+            "width": 400,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 4,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    400,
+                    0
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "84fbddf4-66ce-4859-85c1-55420d5ccf5f",
+            "seed": 31830
+        },
+        {
+            "x": 400,
+            "y": 40,
+            "width": 0,
+            "height": 400,
+            "angle": 0,
+            "strokeColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "hachure",
+            "strokeStyle": "solid",
+            "strokeWidth": 4,
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": {
+                "type": 3
+            },
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 0,
+            "link": null,
+            "locked": false,
+            "points": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    -400
+                ]
+            ],
+            "lastCommitedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "roundess": {
+                "type": 2
+            },
+            "type": "line",
+            "id": "2f85fc3e-b417-4ace-b778-4db6c5a34d5a",
+            "seed": 43069
+        }
+    ],
+    "appState": {
+        "viewBackgroundColor": "#ffffff",
+        "gridSize": null
+    }
+}
