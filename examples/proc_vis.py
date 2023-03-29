@@ -1,4 +1,6 @@
-"""Using procedural generation with procXD to create a visualization of a tree and a cardioid curve."""
+"""Using procedural generation with procXD 
+   to create a visualization of a tree and a cardioid curve.
+"""
 import random
 import numpy as np
 from procXD import SketchBuilder, random_hex_color
@@ -101,19 +103,17 @@ def graph_cardiod(sk_builder, start_shift=(0, 0),  n_curves=10):
 
 if __name__ == "__main__":
     # EXAMPLE 1: Create a Tree
-    SAVE_FILE = "examples/figures/tree.excalidraw"
-    sketch_builder = SketchBuilder(save_path=SAVE_FILE)
+    sketch_builder = SketchBuilder()
     draw_tree(sketch_builder)
     draw_tree(sketch_builder, start=[-300, 0], end=[-300, -65],)
     draw_tree(sketch_builder, start=[-300, 300], end=[-300, 235],)
     draw_tree(sketch_builder, start=[0, 300], end=[0, 235],)
-    sketch_builder.export_to_file()
-    del sketch_builder
+    SAVE_FILE = "examples/xd_figures/tree.excalidraw"
+    sketch_builder.export_to_file(save_path=SAVE_FILE)
+    sketch_builder.refresh()
 
     # EXAMPLE 2: Create a plot of a function
-    SAVE_FILE = "examples/figures/cardiod.excalidraw"
-    sketch_builder = SketchBuilder(save_path=SAVE_FILE)
+    sketch_builder = SketchBuilder()
     graph_cardiod(sketch_builder, start_shift=[400, 0])
-
-    # Save file
-    sketch_builder.export_to_file()
+    SAVE_FILE = "examples/xd_figures/cardiod.excalidraw"
+    sketch_builder.export_to_file(save_path=SAVE_FILE)

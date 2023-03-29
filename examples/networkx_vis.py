@@ -9,7 +9,7 @@ if __name__ == "__main__":
     for node in G.nodes():
         G.nodes[node]['label'] = f'Node {node}'
         G.nodes[node]['pos'] = pos[node]
-    SAVE_FILE = "examples/figures/network.excalidraw"
-    sketch_builder = SketchBuilder(save_path=SAVE_FILE)
+    sketch_builder = SketchBuilder()
     sketch_builder.render_networkx_graph(G)
-    sketch_builder.export_to_file()
+    SAVE_FILE = "examples/xd_figures/network.excalidraw"
+    sketch_builder.export_to_file(save_path=SAVE_FILE)

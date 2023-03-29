@@ -61,10 +61,10 @@ if __name__ == '__main__':
     # To visualize, this convert it to a networkx graph:
     graph = cfg_to_graph(config)
     # now visualize with the sketch builder:
-    SAVE_FILE = "examples/figures/configuration.excalidraw"
-    sketch_builder = SketchBuilder(save_path=SAVE_FILE)
+    sketch_builder = SketchBuilder()
     sketch_builder.render_stack_sketch(graph, stacking="vertical")
-    sketch_builder.export_to_file()
+    SAVE_FILE = "examples/xd_figures/configuration.excalidraw"
+    sketch_builder.export_to_file(save_path=SAVE_FILE)
     del sketch_builder
 
     # Now compare clones with differences:
@@ -84,11 +84,10 @@ if __name__ == '__main__':
         "config_A": cfg_to_graph(config_A),
         "config_B": cfg_to_graph(config_B)
     }
-    SAVE_FILE = "examples/figures/config_comparison.excalidraw"
-    sketch_builder = SketchBuilder(save_path=SAVE_FILE)
+    sketch_builder = SketchBuilder()
     sketch_builder.render_comparitive_stack_sketch(
         config_dict, base_config_name="config", stacking="vertical")
     # sketch_builder.render_comparitive_stack_sketch(
     #     config_dict, base_config_name="config", stacking="horizontal")
-    sketch_builder.export_to_file()
-    del sketch_builder
+    SAVE_FILE = "examples/xd_figures/config_comparison.excalidraw"
+    sketch_builder.export_to_file(save_path=SAVE_FILE)

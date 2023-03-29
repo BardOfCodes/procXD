@@ -1,8 +1,8 @@
 """ Excalidraw primitives"""
 import uuid
-import numpy as np
 import copy
 import math
+import numpy as np
 from PIL import ImageFont
 from .defaults import (BOX_DEFAULTS, BOX_SOLID_DEFAULTS, BOX_EXPORT_KEYS,
                        TEXT_DEFAULTS, CODE_TEXT, TEXT_EXPORT_KEYS, FONT_FAMILY,
@@ -26,6 +26,7 @@ class ExcaliDrawPrimitive():
         self.export_keys = []
 
     def export(self):
+        """ Convert the excalidraw primitive specifications to a dictionary"""
         export_dict = {}
         for key in self.export_keys:
             export_dict[key] = getattr(self, key)
@@ -33,13 +34,17 @@ class ExcaliDrawPrimitive():
 
     @property
     def bbox(self):
+        """ Return the bounding box of the excalidraw primitive"""
         return [self.x, self.y, self.x + self.width, self.y + self.height]
 
     @property
     def center(self):
+        """ Return the center of the excalidraw primitive"""
         return [self.x + self.width / 2, self.y + self.height / 2]
 
     def get_boundary_point(self, theta):
+        """Given angle theta measured from the positive x-axis, return the boundary points"""
+        # TODO: Currently buggy.
         # given angle theta measured from the positive x-axis, return the boundary points
         theta_lim = math.atan2(self.height, self.width)
         if abs(theta) < theta_lim:
@@ -53,7 +58,7 @@ class ExcaliDrawPrimitive():
             y = self.y + self.height * (theta < math.pi) * sign_indicator
         return [x, y]
 
-    def get_quad_boundary_point(self, theta, padding=5):
+    def get_edge_midpoint(self, theta, padding=5):
         # given angle theta measured from the positive x-axis, return the boundary mapped to the center of the edges
         theta_lim = math.atan2(self.height, self.width)
         if abs(theta) < theta_lim or abs(theta) > math.pi - theta_lim:
@@ -70,7 +75,7 @@ class ExcaliDrawPrimitive():
 
 
 class Group(ExcaliDrawPrimitive):
-
+    """ Create groups of Excalidraw primitive."""
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.type = "group"
@@ -83,31 +88,35 @@ class Group(ExcaliDrawPrimitive):
         self._height = 0
 
     def add_element(self, element):
+        """ Add an element to the group."""
         # if element is a group, add all elements in the group.
         # TODO: Is the the right way?
         if isinstance(element, Group):
-            for e in element.elements:
-                self.add_element(e)
+            for elem in element.elements:
+                self.add_element(elem)
         else:
             if element.id not in self.elementIds:
                 self.elements.append(element)
                 self.elementIds.add(element.id)
                 element.groupIds.append(self.id)
-        self.update_bbox()
+        self._update_bbox()
 
     def remove_element(self, element):
+        """ Remove an element from the group."""
         if element.id in self.elementIds:
             self.elements.remove(element)
             self.elementIds.remove(element.id)
             element.groupIds.remove(self.id)
-        self.update_bbox()
+        self._update_bbox()
 
     def empty_all_subelements(self,):
+        """ Remove all elements from the group."""
         elements = [x for x in self.elements]
         for element in elements:
             self.remove_element(element)
 
-    def update_bbox(self):
+    def _update_bbox(self):
+        """ helper function to update the bounding box of the group."""
         # TODO: Can be optmized to only update the bbox if new elements are beyond current bbox.
         all_starts = [[element.x, element.y] for element in self.elements]
 
@@ -144,7 +153,7 @@ class Group(ExcaliDrawPrimitive):
 
     @x.setter
     def x(self, value):
-        # Update all elements and call update_bbox
+        # Update all elements and call _update_bbox
         delta = value - self._x
         for element in self.elements:
             element.x += delta
@@ -152,7 +161,7 @@ class Group(ExcaliDrawPrimitive):
 
     @y.setter
     def y(self, value):
-        # Update all elements and call update_bbox
+        # Update all elements and call _update_bbox
         delta = value - self._y
         for element in self.elements:
             element.y += delta
@@ -162,8 +171,8 @@ class Group(ExcaliDrawPrimitive):
 
 
 class Rectangle(ExcaliDrawPrimitive):
-
-    def __init__(self, set_to_solid=False, *args, **kwargs):
+    """ Create a rectangle."""
+    def __init__(self, *args, set_to_solid=False, **kwargs):
         super().__init__(*args, **kwargs)
 
         if set_to_solid:
@@ -188,7 +197,7 @@ class Rectangle(ExcaliDrawPrimitive):
 
 
 class Diamond(Rectangle):
-
+    """ Create a diamond."""
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
@@ -197,12 +206,12 @@ class Diamond(Rectangle):
         self.type = "diamond"
 
     def get_boundary_points(self, theta):
-        # given angle theta measured from the positive x-axis, return the boundary points
+        # TODO: Implement this.
         ...
 
 
 class Ellipse(Rectangle):
-
+    """ Create an ellipse."""
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
@@ -211,13 +220,13 @@ class Ellipse(Rectangle):
         self.type = "ellipse"
 
     def get_boundary_points(self, theta):
-        # given angle theta measured from the positive x-axis, return the boundary points
+        # TODO: Implement this.
         ...
 
 
 class Text(ExcaliDrawPrimitive):
-
-    def __init__(self, set_to_code=False, *args, **kwargs):
+    """ Create a text box."""
+    def __init__(self, *args, set_to_code=False, **kwargs):
         super().__init__(*args, **kwargs)
 
         if "text" in kwargs:
@@ -283,7 +292,7 @@ class Text(ExcaliDrawPrimitive):
     @text.setter
     def text(self, value):
         self._text = value
-        self.defaul_text = value
+        self.originalText = value
         self._update_size()
 
     @property
@@ -296,7 +305,7 @@ class Text(ExcaliDrawPrimitive):
 
 
 class Line(ExcaliDrawPrimitive):
-
+    """ Create a line."""
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
@@ -357,7 +366,7 @@ class Line(ExcaliDrawPrimitive):
         self._height = max_y - min_y
 
     def set_start_binding(self, element, padding=10):
-        # TODO: Also have to ensure the start point is within reach of the element?
+        """ Set binding in both the line as well as the element."""
         self.startBinding = {
             "elementId": element.id,
             "focus": 0,
@@ -371,8 +380,7 @@ class Line(ExcaliDrawPrimitive):
         )
 
     def set_end_binding(self, element, padding=10):
-        # TODO: Also have to ensure the end point is within reach of the element?
-        # end_point = self._points[-1]
+        """ Set binding in both the line as well as the element."""
         self.endBinding = {
             "elementId": element.id,
             "focus": 0,
@@ -386,7 +394,7 @@ class Line(ExcaliDrawPrimitive):
         )
 
 class Arrow(Line):
-
+    """ Create an arrow."""
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.type = "arrow"
