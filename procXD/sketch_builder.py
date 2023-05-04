@@ -46,7 +46,7 @@ class SketchBuilder():
             json_obj = element.export()
             self.data['elements'].append(json_obj)
 
-        if save_path[-5:] != ".excalidraw":
+        if save_path.split(".")[-1] != ".excalidraw":
             save_path += ".excalidraw"
 
         with open(save_path, "w") as file_reader:
