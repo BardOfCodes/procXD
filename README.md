@@ -52,14 +52,15 @@ It might also be useful for converting arbitrary graphs from networkx to excalid
 
 ## Todo
 
-1) Support Images
+1) Support Images.
+
+2) Converter for SVG: Will be nice to convert datasets like [FIGR-8](https://github.com/marcdemers/FIGR-8) into excalidraw format. That way, output of SVG optimization works (such as [Vector-Fusion](https://github.com/ximinng/VectorFusion-pytorch)) can be viewed in excalidraw as well!
 
 ## What ProcXD does not support
 
 1) Versioning
-2) *Exact* text bounding box size - as a result the text bounding box sizes are adjusted in the file with the file is opened with excalidraw.
+2) *Exact* text bounding box size - as a result the text bounding box sizes are adjusted in the file when the file is opened with excalidraw.
 
 ## Acknowledgements
 
-I used ChatGPT while creating this tool. It was helpful in many ways, but also misleading at times (especially for visual math functions). 
-Overall, it is helpful (don't know if its "100x helpful" though)!
+I used ChatGPT while creating this tool. It was helpful in many ways, but also misleading at times (especially for visual math functions).
